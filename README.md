@@ -8,3 +8,7 @@ This project has the following steps.
 2. Building and Training Your Model
 3. Clinical Workflow Integration
 4. FDA Preparation
+
+**Dataset for training:**
+
+The NIH data for EDA and training is provided to you along with the code to load the data, this can download the data from the [kaggle website](https://www.kaggle.com/nih-chest-xrays/data)
